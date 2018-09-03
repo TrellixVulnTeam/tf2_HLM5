@@ -1,0 +1,14 @@
+<annotation verified="yes">
+	<folder>training</folder>
+	<filename>data5.jpg</filename>
+	<path>C:\testtf\models\research\object_detection\images\training\data5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>655</width>
+		<height>789</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
